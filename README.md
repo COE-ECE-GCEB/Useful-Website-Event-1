@@ -4,6 +4,8 @@ Event for useful website from club of elite
 - Freecodecamp
 - Hackerday.io
 - Hackerearth
+- Future Ready Talent
+- Github Student Developer pack
 - Github
 - Aptitude Website
 - Ambitionbox or glassdoor
