@@ -22,6 +22,7 @@ Event for useful website from a club of elite
 - Tinkercad
 - Ambitionbox or glassdoor
 - website for learning previous year company hiring questions
+- Google coading competition (coding competition from big companies)
 
 ## Knowledge required to convey to the audience for the above platform
 
