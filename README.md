@@ -21,7 +21,29 @@ Event for useful website from a club of elite
 - Online Multisim
 - Tinkercad
 - Ambitionbox or glassdoor
+- All About Electronics
+- Embedded Related
+- vlab.co.in
+- https://ocw.mit.edu/
+- Electronicshub
+- Classcentral
+- instructables
 - website for learning previous year company hiring questions
+- https://www.arm.com/resources/education/online-courses
+- https://cs50.harvard.edu/x/2023/
+- https://cs50.harvard.edu/x/2023/
+- https://pll.harvard.edu/catalog/free
+
+
+**ECE Student Placement Domain**
+- Embedded Systems
+- Internet of Things
+- VLSI
+- Software Engineer
+- 
+<img src="https://user-images.githubusercontent.com/57592824/216617867-ef333c55-ce15-45ae-a0d2-6904a6ccce38.png" width=400px/>
+>
+
 
 ## Knowledge required to convey to the audience for the above platform
 
@@ -111,10 +133,17 @@ convey:
 - Why it is so important?
 - Demonstration?
 
+**All about circuits**
+content:
+- It has video course for 
+- Live webinars in ELectronics and computer science technology
 
-
-
-
+**Embedded Related**
+Content:
+- Pdf book
+- quizes
+- Courses
+- virtual lab
 
 
 
