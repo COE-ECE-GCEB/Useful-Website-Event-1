@@ -29,7 +29,6 @@ Event for useful website from a club of elite
 - Classcentral
 - instructables
 - website for learning previous year company hiring questions
-<<<<<<< HEAD
 - https://www.arm.com/resources/education/online-courses
 - https://cs50.harvard.edu/x/2023/
 - https://cs50.harvard.edu/x/2023/
@@ -45,9 +44,6 @@ Event for useful website from a club of elite
 <img src="https://user-images.githubusercontent.com/57592824/216617867-ef333c55-ce15-45ae-a0d2-6904a6ccce38.png" width=400px/>
 >
 
-=======
-- Google coading competition (coding competition from big companies)
->>>>>>> 915fade85cd0cfd6637a1e086b1b255df410b81f
 
 ## Knowledge required to convey to the audience for the above platform
 
