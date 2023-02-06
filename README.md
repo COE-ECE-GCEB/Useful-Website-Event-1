@@ -28,21 +28,46 @@ Event for useful website from a club of elite
 - Electronicshub
 - Classcentral
 - instructables
+- geogebra
 - website for learning previous year company hiring questions
 - https://www.arm.com/resources/education/online-courses
 - https://cs50.harvard.edu/x/2023/
 - https://cs50.harvard.edu/x/2023/
 - https://pll.harvard.edu/catalog/free
+- edx, coursera
 
+
+- https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/get-started.html
+
+- [intel course video](https://www.youtube.com/watch?v=CbmQAN7pGAQ)
+
+- https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/certification.html
+
+- [stanfoard](https://online.stanford.edu/explore?filter%5B0%5D=free_or_paid%3Afree&keywords=&items_per_page=12)
+
+- [google interview wrapup](https://grow.google/certificates/interview-warmup/)
+
+- [google ML](https://developers.google.com/machine-learning/crash-course)
+- [google techdevguide](https://techdevguide.withgoogle.com/paths/)
+
+- github octoberfest
+- Gsoc
+- Gsod
+- https://itsfoss.com/best-open-source-internships/?utm_source=linkedIn&utm_medium=social&utm_campaign=SocialWarfare
+- https://wokwi.com/
 
 **ECE Student Placement Domain**
 - Embedded Systems
 - Internet of Things
 - VLSI
+- FPGA Designer
+- Frimware engieer
+- Digital Signal Processing
 - Software Engineer
-- 
+- PCB Designer
 <img src="https://user-images.githubusercontent.com/57592824/216617867-ef333c55-ce15-45ae-a0d2-6904a6ccce38.png" width=400px/>
 >
+
 
 
 ## Knowledge required to convey to the audience for the above platform
@@ -55,7 +80,7 @@ Event for useful website from a club of elite
 - Competitive Programming
 - Interview Preperation Kit.
 - Upcomming test from coading
-
+- https://www.hackerrank.com/research/developer-skills/2023
 
 **Freecodecamp**
 - Learn the course, take assessments, do 5 projects and earn the value-added certificate

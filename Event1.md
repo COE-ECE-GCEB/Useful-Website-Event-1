@@ -16,7 +16,7 @@ lksdja
     - Reference for old assessment of the companies
     - Job- searching platform
 
-- Courses
+- Courses/Training
     - ECE Courses
         - From top universities
     - Computer sience
@@ -24,3 +24,8 @@ lksdja
 - contest / hackathon / challanges
 
 - GitHub
+
+
+Start---  
+How many of did you not start learning, because you should not afford for the courses from the regonised platform
+
