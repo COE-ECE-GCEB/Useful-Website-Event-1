@@ -55,6 +55,7 @@ Event for useful website from a club of elite
 - Gsod
 - https://itsfoss.com/best-open-source-internships/?utm_source=linkedIn&utm_medium=social&utm_campaign=SocialWarfare
 - https://wokwi.com/
+- Google Sites
 
 **ECE Student Placement Domain**
 - Embedded Systems
@@ -65,6 +66,15 @@ Event for useful website from a club of elite
 - Digital Signal Processing
 - Software Engineer
 - PCB Designer
+- https://placement.freshersworld.com/ placement paper, job oppertunity, interview question
+- google techdev
+- [android development course from google](https://developer.android.com/courses)
+- [google digital garage](https://learndigital.withgoogle.com/digitalgarage/courses)
+- [ibm courses](https://skillsbuild.org/)
+- [aws courses](https://explore.skillbuilder.aws/learn)
+- [skillup](https://www.simplilearn.com/skillup-free-online-courses#AI-&-Machine-Learning)
+- scaler
+
 <img src="https://user-images.githubusercontent.com/57592824/216617867-ef333c55-ce15-45ae-a0d2-6904a6ccce38.png" width=400px/>
 >
 
