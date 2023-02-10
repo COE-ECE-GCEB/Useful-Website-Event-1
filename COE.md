@@ -6,8 +6,10 @@ google scholarship (https://buildyourfuture.withgoogle.com/scholarships?_ga=2.11
 
 google for startups
 
-google cournce on developing android game (https://appliedcsskills.withgoogle.com/)
+google course on developing android game (https://appliedcsskills.withgoogle.com/)
 
 - google challenging platform
     - GSOC
     - GDOC
+
+- Going to add sample resume...
