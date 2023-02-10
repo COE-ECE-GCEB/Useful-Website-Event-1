@@ -22,6 +22,7 @@ Tamilarasu
     - ECE Courses
     - Software
     - Courses from top universities and companies
+    - Other important platforms for searching course
 
 - contest / hackathon / challanges
 
@@ -63,11 +64,12 @@ Tamilarasu
     **Talk with others and learn app**
     - [OpenTalk](https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk&hl=en_IN&gl=US)
     - [HelloTalk](https://play.google.com/store/apps/details?id=com.hellotalk&hl=en_IN&gl=US)
+    - [Hallo](https://play.google.com/store/apps/details?id=com.halloglobal.flutterapp.hallo&hl=en_IN&gl=US)
 
 
 #### **Course / Training from top university**
 ##### **ECE**
-- Hackerday.io
+- [Hackaday.io](https://hackaday.io/)
 - online Multisim
 - All about electronics, electronics for you, instructables, 
 - [Arm course](https://www.arm.com/resources/education/online-courses)
@@ -79,7 +81,7 @@ Tamilarasu
 - [Freecodecamp](https://freecodecamp.com) (free Certificate)- Demo with certificate
 - [ML course from google](https://developers.google.com/machine-learning/crash-course)
 - [Data Structure and Algorithm from google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
-
+- [intel ai course](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/get-started.html)
 ##### **Courses from top universities and top companies**
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 - [stanfoard free course](https://online.stanford.edu/explore?filter%5B0%5D=free_or_paid%3Afree&keywords=&items_per_page=12)
@@ -89,8 +91,27 @@ Tamilarasu
 - [Microsoft free course](https://learn.microsoft.com/en-us/training/)
 
 ##### **Other important platforms for searching course**
-- [class central](classcentral.com)
+- [class central](classcentral.com) (it has the collection of the course links)
+- [Coursera.org](https://www.coursera.org/) (financial aid available for certificate, learning content is mostly free)
+- [edx.org](https://www.edx.org/)(free learning for most courses, cost for certificates)
+- [udacity](https://www.udacity.com/)
 
+#### **Contest / hackathon / challenges**
+    
+<details><summary>Hackerrank</summary>
+
+<div style="background-color:#555; color: #ccc; padding:20px;>
+
+<a src="https://www.hackerrank.com/" style="color: gray; font-size:20px; font-weight:bold;">Hackerrank.com</a>
+
+- Registration
+- Problem approach
+- use of hackerrank profile in resume and company placement
+- Certification and interview preparation kit
+- statistics form hackerrank 2023
+</div>
+
+</details>
 
 
 
