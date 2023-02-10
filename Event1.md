@@ -16,11 +16,12 @@ Tamilarasu
     - Reference for old assessment of the companies
     - Job searching platform / Company analyzing platform
     - Google interview wrapup
+    - communication skills / English
 
 - Courses/Training (Top University)
     - ECE Courses
     - Software
-    - Internship + training + certificates
+    - Courses from top universities and companies
 
 - contest / hackathon / challanges
 
@@ -36,24 +37,33 @@ Tamilarasu
 
 ### **Brief description about the event topics**
 #### **Placement**
-##### **Aptitude Website** 
+**Aptitude Website** 
 - Quantative, Reasoning, Verbal
 - Free Course (why should take course first, instead of go and train straightly)
-    - Mentorbuddy
+    - [Mentorbuddy]()
     - [Youtube course from Freashersworld](https://www.youtube.com/playlist?list=PLjLhUHPsqNYnM1DmZhIbtd9wNhPO1HGPT)
 - Test practice platform (indiabix, freasheresworld)
 - Demonstration 
 - Importance of Aptitude (Future NQT Test, etc....)
 
-##### **Practice old placement question**
-- Freasherworld, IndiaBix
+**Practice old placement question**
+- [Freasherworld](https://placement.freshersworld.com/), [IndiaBix](https://www.indiabix.com/placement-papers/companies/)
 - Search online for more
-##### **Job Searching/Company analyzing platform**
-- Ambitionbox - demo
-- Glassdoor
-- LinkedIN (How use full) - demo
-- list other placement websites (naukiri, Indeed, foundit,...etc)
-- Google Interview wrapup
+
+**Job Searching/Company analyzing platform**
+- [Ambitionbox](https://www.ambitionbox.com/) - demo
+- [Glassdoor](https://www.glassdoor.co.in/index.htm)
+- [LinkedIN](https://www.linkedin.com/) (How use full) - demo (how to connect with industries, value of the linkedin profile)
+- list other placement websites ([naukiri](https://www.naukri.com/), [Indeed](https://in.indeed.com/), [foundit](https://www.foundit.in/),...etc)
+- [Google Interview wramup](https://grow.google/certificates/interview-warmup/)
+
+**Communication skill**
+- [English course from BBC](https://www.bbc.co.uk/learningenglish/)
+
+    **Talk with others and learn app**
+    - [OpenTalk](https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk&hl=en_IN&gl=US)
+    - [HelloTalk](https://play.google.com/store/apps/details?id=com.hellotalk&hl=en_IN&gl=US)
+
 
 #### **Course / Training from top university**
 ##### **ECE**
@@ -63,10 +73,10 @@ Tamilarasu
 - [Arm course](https://www.arm.com/resources/education/online-courses)
 - wokwi
 - 8051 simulation software, (what is simulation and how to find other simulation tools)
-- vlab.co.in (virtual lab)
+- [vlab.co.in](https://vlab.co.in) (virtual lab)
 ##### **Software**
 - [intro to programming from harvard](https://cs50.harvard.edu/x/2023/) (Include scratch)
-- Freecodecamp (free Certificate)- Demo with certificate
+- [Freecodecamp](https://freecodecamp.com) (free Certificate)- Demo with certificate
 - [ML course from google](https://developers.google.com/machine-learning/crash-course)
 - [Data Structure and Algorithm from google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
@@ -79,6 +89,9 @@ Tamilarasu
 - [Microsoft free course](https://learn.microsoft.com/en-us/training/)
 
 ##### **Other important platforms for searching course**
+- [class central](classcentral.com)
+
+
 
 
 
