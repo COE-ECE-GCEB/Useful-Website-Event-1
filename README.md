@@ -75,6 +75,8 @@ Event for useful website from a club of elite
 - [skillup](https://www.simplilearn.com/skillup-free-online-courses#AI-&-Machine-Learning)
 - scaler
 - unstop
+- https://overthewire.org/wargames/bandit/
+- Internship (https://www.makeuseof.com/free-virtual-internship-sites-students/)
 
 <img src="https://user-images.githubusercontent.com/57592824/216617867-ef333c55-ce15-45ae-a0d2-6904a6ccce38.png" width=400px/>
 >

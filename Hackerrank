@@ -1,0 +1,43 @@
+# Club of Elite / Hackerrank Contest / Solution-Explanation
+**Requirements:** Any one programming language (here for shake of simplicity `c/c++` is considered through out the solution)
+
+Introduction to Hackerran: [Youtube video](https://youtu.be/f6D61fNreKo?list=PLhP5RsB7fhE2394h0wg-H8-PGttb1Ao7n&t=42)
+
+## Problem Title
+- [Solve Me First](#solve-me-first)
+- [A Very Big Sum](#a-very-big-sum)
+
+**General Answer format**
+
+They given the blocks of code(some times the given code may not be editable(they are shown with the blue line in the left side of the code)). They ask you to complete the function(here solveMeFirst function) to get the desired output.
+![image](https://user-images.githubusercontent.com/57592824/222167973-84a6163a-946d-4e89-8d6e-6c33ddd3582c.png)
+
+### Solve Me First
+requirement: return value in function, operators, variable, datatypes
+<details><summary>Question</summary>
+
+![image](https://user-images.githubusercontent.com/57592824/222163930-283a7805-3aee-4bda-8bff-b96dc6e78931.png)
+
+</details>
+
+<details><summary>Explanation</summary>
+
+![image](https://user-images.githubusercontent.com/57592824/222171012-9425199c-6489-4ab5-aee5-dccbeff73584.png)
+</details>
+
+youtube explanation: [Link](https://youtu.be/f6D61fNreKo?list=PLhP5RsB7fhE2394h0wg-H8-PGttb1Ao7n&t=141)
+
+### A Very Big Sum
+requirement: array, function, datatypes, variable, operators
+<details><summary>Question</summary>
+
+![image](https://user-images.githubusercontent.com/57592824/222191687-7c35fdc5-1d3b-46f2-9c89-ab6b83a3e0aa.png)
+
+</details>
+
+<details><summary>Explanation</summary>
+
+![image](https://user-images.githubusercontent.com/57592824/222171012-9425199c-6489-4ab5-aee5-dccbeff73584.png)
+</details>
+
+youtube explanation: [Link](https://youtu.be/APFCMe96KSw)

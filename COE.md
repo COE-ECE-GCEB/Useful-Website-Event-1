@@ -13,3 +13,5 @@ google course on developing android game (https://appliedcsskills.withgoogle.com
     - GDOC
 
 - Going to add sample resume...
+
+- List of placement company database, will on campus company

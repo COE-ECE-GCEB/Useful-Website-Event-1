@@ -114,6 +114,7 @@ Tamilarasu
 - use of hackerrank profile in resume and company placement
 - Certification and interview preparation kit
 - statistics form hackerrank 2023
+- JOB Board
 
 </div>
 
@@ -194,6 +195,10 @@ Tamilarasu
 - [mldataset.com](https://mlcontests.com/)
 - [bitgrit Competition](https://bitgrit.net/competition/)
 - [datahack.analyticsvidhya.com](https://datahack.analyticsvidhya.com/)
+- [number.ai](https://numer.ai/)
+- [Drivendata](https://www.drivendata.org/)
+- [aicrowd](https://www.aicrowd.com/)
+- [Machinehack](https://machinehack.com/) (job hiring)
 </details>
 
 <details><summary>Other Contest/Hackathon</summary>
